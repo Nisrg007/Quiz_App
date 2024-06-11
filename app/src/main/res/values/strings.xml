@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EarnWFun</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="update_profile">Update Profile</string>
+
+    <string name="app_id">ca-app-pub-1551156846680522~7138928575</string>
+    <string name="rewardad_id">ca-app-pub-1551156846680522/7673582365</string>
+
+
+    <string name="walletstring">40,000 coins gpay₹80/paypal$1\n60,000 coins gpay₹120/paypal$2\n130,000 coins gpay ₹320/paypal$4</string>
+    <string name="sringWallet">40,000 coins required to withdraw</string>
+
+</resources>

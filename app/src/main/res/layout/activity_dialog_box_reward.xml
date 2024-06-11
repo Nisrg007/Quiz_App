@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#2196F3"
+    android:orientation="vertical"
+    >
+
+
+ <LinearLayout
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:orientation="horizontal"
+     android:gravity="center"
+     android:layout_gravity="center"
+     android:layout_marginTop="7dp"
+     android:layout_marginRight="21dp"
+     android:layout_marginLeft="31dp"
+     >
+
+
+     <TextView
+         android:id="@+id/textView2"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:fontFamily="sans-serif-condensed-medium"
+         android:text="Free Coins"
+         android:textColor="@color/white"
+         android:textSize="25sp" />
+
+     <pl.droidsonroids.gif.GifImageView
+         android:layout_width="30dp"
+         android:layout_height="30dp"
+         android:id="@+id/dancer"
+         android:src="@drawable/tregif"
+         android:layout_marginLeft="3dp"/>
+
+    <ImageView
+        android:id="@+id/closPopup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_close"
+        android:layout_gravity="end"
+        android:layout_marginLeft="7dp"/>
+
+ </LinearLayout>
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/treasurechest"
+        android:layout_gravity="center"
+        android:layout_marginEnd="7dp"
+        />
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-condensed-medium"
+        android:gravity="center"
+        android:text="get daily 250X11 total coins\nfor free"
+android:layout_marginBottom="4dp"
+        android:layout_marginRight="11dp"
+        android:layout_marginLeft="11dp"
+        android:textColor="@color/cust7" />
+
+
+    <Button
+        android:id="@+id/adBtn"
+        android:layout_width="100dp"
+        android:layout_height="43dp"
+        android:background="@drawable/btn_bgad"
+        android:fontFamily="sans-serif-medium"
+        android:text="Claim"
+        android:textSize="16sp"
+        android:textColor="@color/black"
+        android:textAllCaps="false"
+        android:drawableStart="@drawable/ic_playad"
+        android:layout_gravity="center"
+        android:paddingLeft="10dp"
+        android:drawablePadding="-10dp"
+        android:layout_marginBottom="11dp"
+        android:layout_marginTop="4dp"
+        />
+</LinearLayout>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1055894452605",
+    "firebase_url": "https://earnwquizspin-default-rtdb.firebaseio.com",
+    "project_id": "earnwquizspin",
+    "storage_bucket": "earnwquizspin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055894452605:android:78a3c703863c66a9557414",
+        "android_client_info": {
+          "package_name": "com.tooglamtogivedamn.earnwquizspin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055894452605-ke8nt3sp0fm3mph7ncupsaft03hdtk5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRq4wZbrk8rRAHMs8t9cOe3pzA8n1quPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055894452605-91bknmb1g0a511uf6f8kvb1bn9gdqslk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
